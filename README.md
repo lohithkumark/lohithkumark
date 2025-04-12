@@ -15,21 +15,11 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-### 📊 GitHub Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithkumark&layout=compact&theme=radical)
 
 ---
 
-### 🐍 Contribution Snake
-
 ![snake gif](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
-### 👁️ Visitors
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lohithkumark.lohithkumark)
 
 ---
 
