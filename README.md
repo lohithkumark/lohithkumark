@@ -23,9 +23,11 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](www.linkedin.com/in/lohithkumar12)
-[![Github](https://github.com/lohithkumark)
+<a href="https://www.linkedin.com/in/lohithkumar12" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://github.com/lohithkumark" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
+</a>
 
 
