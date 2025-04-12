@@ -17,8 +17,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ### 📊 GitHub Stats
 
-![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lohithkumark&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithkumark&layout=compact&theme=radical)
 
 ---
