@@ -21,7 +21,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ![snake gif](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohithkumar" alt="lohithkumar" /></a> </p>
 
+---
 <a href="https://www.linkedin.com/in/lohithkumar12" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
 </a>
