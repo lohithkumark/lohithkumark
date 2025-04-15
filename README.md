@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohithkumar" alt="lohithkumar" /></a> </p>
 
 ---
-<a href="https://www.linkedin.com/in/lohithkumar12" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
