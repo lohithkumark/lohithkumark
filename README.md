@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: Full Stack Web Development
-- 🌱 I’m currently learning: TypeScript, Next.js, and system design
+- 🌱 I’m currently learning: Java , MySQL ,Web technologies
 - 👯 I’m looking to collaborate on: Open source and startup ideas
-- 💬 Ask me about: JavaScript, React, Node.js, or anything tech-related!
 - 📫 How to reach me: lohitkumar2003@gmail.com
 - ⚡ Fun fact: I sometimes talk to my rubber duck for debugging 🐥
 
