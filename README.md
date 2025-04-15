@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🌱 I’m currently learning: TypeScript, Next.js, and system design
 - 👯 I’m looking to collaborate on: Open source and startup ideas
 - 💬 Ask me about: JavaScript, React, Node.js, or anything tech-related!
-- 📫 How to reach me: (mailto:lohitkumar2003@gmail.com)
+- 📫 How to reach me: lohitkumar2003@gmail.com
 - ⚡ Fun fact: I sometimes talk to my rubber duck for debugging 🐥
 
 ---
